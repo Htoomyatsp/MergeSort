@@ -1,2 +1,2 @@
 # MergeSort
-Implementation using Merge Sort
+Implementation using Merge Sort. This project demonstrates the implementation of the Merge Sort algorithm to sort a queue of integers in Java. The Merge Sort algorithm is a divide-and-conquer sorting algorithm that splits the input data into smaller sublists, recursively sorts them, and then merges the sorted sublists to produce the final sorted result. This implementation utilizes Java's Queue interface, specifically using LinkedList, to represent and manipulate the data.
